@@ -1,0 +1,29 @@
+Building your first app
+The demo app we're about to build is called Blog Post Metrics. It will enhance your editorial experience when creating a blog post by providing useful metrics such as word count and a reading time indicator. The metrics will be shown in the entry editor in the sidebar for a given blog post entry.
+
+Sidebar Content Type
+Prerequisites
+In order to successfully complete this tutorial:
+
+You'll need the latest LTS version of Node.js installed on your machine. If you don't have Node.js installed, you can download it here.
+You should be comfortable using your computer’s command line and text editor.
+You’ll need to be able to read and write HTML, CSS, and JavaScript.
+You should be familiar with installing software using the Node package manager.
+You'll need a free Contentful account and Contentful space. You can sign up here.
+What to expect
+In this tutorial you'll learn:
+
+How to create an app.
+How to configure where your app is shown in the web app.
+How to install an app into your space.
+How to choose which content type your app interacts with.
+If you prefer to start tinkering directly, you can clone the example code and go from there.
+
+Table of contents
+Tools
+Set up your content model
+Set up your project
+Embed your app in the Contentful web app
+Calculate the metrics
+Deployment
+Additional Resources
