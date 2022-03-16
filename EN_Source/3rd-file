@@ -1,0 +1,14 @@
+Tools
+We will use several tools and libraries throughout the tutorial. We choose these technologies because we think they provide the best developer experience possible.
+
+React
+We use React to render our views for the app and handle our logic. React is a JavaScript library for building user interfaces. However, using React is not mandatory to create apps.
+
+App SDK
+The App SDK provides the methods that are necessary to interact with the Contentful web app. We will only use a subset of the methods, but if you want to know the full scope of what is possible, take a look at our App SDK reference documentation.
+
+Forma 36
+We use Forma 36 to achieve the same look and feel of the Contentful web app. Forma 36 is Contentful's design system.
+
+TypeScript
+The app is written in TypeScript. However, you do not need any TypeScript knowledge in order to complete this tutorial. Apps can also be written in JavaScript without losing any of the functionality.
